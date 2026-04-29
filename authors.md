@@ -28,7 +28,7 @@
 Source:
 [`DESCRIPTION`](https://github.com/BrownandCaldwell-Public/tidywater/blob/main/DESCRIPTION)
 
-Johnson S, McKenna L, Mulhern R, Corwin C (2025). *tidywater: Water
+Johnson S, McKenna L, Mulhern R, Corwin C (2026). *tidywater: Water
 Quality Models for Drinking Water Treatment Processes*. R package
 version 0.10.9000,
 <https://github.com/BrownandCaldwell-Public/tidywater>.
@@ -36,7 +36,7 @@ version 0.10.9000,
     @Manual{,
       title = {tidywater: Water Quality Models for Drinking Water Treatment Processes},
       author = {Sierra Johnson and Libby McKenna and Riley Mulhern and Chris Corwin},
-      year = {2025},
+      year = {2026},
       note = {R package version 0.10.9000},
       url = {https://github.com/BrownandCaldwell-Public/tidywater},
     }
